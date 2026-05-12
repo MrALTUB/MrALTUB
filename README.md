@@ -5,15 +5,19 @@ Actualmente soy estudiante de Ingeniería en Informática.
 ## 📚 Conocimientos básicos en
 - HTML
 - CSS
-- JavaScript
 - Python
 - Java
 - WordPress (CMS)
 
 ## 🚀 Actualmente aprendiendo
-- JavaScript avanzado
-- React
+- JavaScript
+
+## 🧠 Tecnologías en plan de aprendizaje
+- React.js
+- TypeScript
 - Node.js
+- PHP
+- MySQL
 
 ## ✅ Proyectos realizados
 - Web institucional para mi escuela “E.E.S.T N°2”
