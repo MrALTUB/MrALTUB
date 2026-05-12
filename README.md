@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Buenas, buenas! 👋
 
-<!--
-**MrALTUB/MrALTUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente soy estudiante de Ingeniería en Informática.
 
-Here are some ideas to get you started:
+## 📚 Conocimientos básicos en
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- WordPress (CMS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Actualmente aprendiendo
+- JavaScript avanzado
+- React
+- Node.js
+
+## ✅ Proyectos realizados
+- Web institucional para mi escuela “E.E.S.T N°2”
+- Sitio web “Guardianes del Bosque Urbano”
+- [Demo de videojuego "Burro’s Adventure"](https://github.com/MrALTUB/Burro-s-Adventure-Dev)
+
+## 🛠️ Proyectos actuales
+- Sistema de control de stock
+
+## 🌟 Proyectos personales futuros
+- Portfolio web personal
+- Videojuego indie
+- Aplicaciones full stack
+- Herramientas y utilidades experimentales
